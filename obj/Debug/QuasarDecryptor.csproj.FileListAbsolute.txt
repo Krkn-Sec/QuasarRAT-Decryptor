@@ -1,0 +1,11 @@
+C:\Users\pauld\source\repos\QuasarDecryptor-master\QuasarDecryptor\bin\Debug\QuasarDecryptor.exe.config
+C:\Users\pauld\source\repos\QuasarDecryptor-master\QuasarDecryptor\bin\Debug\QuasarDecryptor.exe
+C:\Users\pauld\source\repos\QuasarDecryptor-master\QuasarDecryptor\bin\Debug\QuasarDecryptor.pdb
+C:\Users\pauld\source\repos\QuasarDecryptor-master\QuasarDecryptor\bin\Debug\dnlib.dll
+C:\Users\pauld\source\repos\QuasarDecryptor-master\QuasarDecryptor\bin\Debug\dnlib.xml
+C:\Users\pauld\source\repos\QuasarDecryptor-master\QuasarDecryptor\obj\Debug\QuasarDecryptor.csproj.AssemblyReference.cache
+C:\Users\pauld\source\repos\QuasarDecryptor-master\QuasarDecryptor\obj\Debug\QuasarDecryptor.csproj.SuggestedBindingRedirects.cache
+C:\Users\pauld\source\repos\QuasarDecryptor-master\QuasarDecryptor\obj\Debug\QuasarDecryptor.csproj.CoreCompileInputs.cache
+C:\Users\pauld\source\repos\QuasarDecryptor-master\QuasarDecryptor\obj\Debug\QuasarDecryptor.csproj.CopyComplete
+C:\Users\pauld\source\repos\QuasarDecryptor-master\QuasarDecryptor\obj\Debug\QuasarDecryptor.exe
+C:\Users\pauld\source\repos\QuasarDecryptor-master\QuasarDecryptor\obj\Debug\QuasarDecryptor.pdb
