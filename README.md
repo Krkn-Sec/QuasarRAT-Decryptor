@@ -10,3 +10,9 @@ Utilizes dnlib to decrypt and extract the C2 servers from QuasarRAT versions 1.3
 
 ### Usage
 Just include the sample name as an argument. e.g. $:QuasarDecryptor.exe sample1.exe
+
+---
+
+### Screenshots
+![Quasar1](Docs/Pictures/quasar-decryptor-1.png)
+![Quasar2](Docs/Pictures/quasar-decryptor-2.png)
