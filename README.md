@@ -14,5 +14,5 @@ Just include the sample name as an argument. e.g. $:QuasarDecryptor.exe sample1.
 ---
 
 ### Screenshots
-![Quasar1](Docs/Pictures/quasar-decryptor-1.png)
 ![Quasar2](Docs/Pictures/quasar-decryptor-2.png)
+![Quasar1](Docs/Pictures/quasar-decryptor-1.png)
