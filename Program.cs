@@ -268,7 +268,7 @@ namespace QuasarDecryptor
 
         private static void DisplayHelp()
         {
-            Console.WriteLine("Quasar Decryptor 1.0");
+            Console.WriteLine("Quasar Decryptor");
             Console.WriteLine("------------------------------------------");
             Console.WriteLine("Usage : QuasarDecryptor.exe filename.exe");
         }
